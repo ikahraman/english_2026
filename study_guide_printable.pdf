@@ -1,0 +1,3387 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2976
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 785.1970866141732586 Td
+(Learning Module: RM in openEHR, in details) Tj
+T* (as a first introductory lesson) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 711.4962992125983874 Td
+(Section 1: Essential Vocabulary) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(Reference Model \(RM\):) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 683.1498425196850803 Td
+(The set of fixed rules and definitions for information in openEHR.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 654.8033858267716596 Td
+(EHR:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 654.8033858267716596 Td
+(Electronic Health Record; a digital file of a patient's health.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 626.4569291338582389 Td
+(Class:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 626.4569291338582389 Td
+(A group or category in a computer model that defines how data looks.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 598.1104724409448181 Td
+(Composition:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 598.1104724409448181 Td
+(A document in the health record, like a doctor's note or a lab report.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(Entry:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 569.7640157480313974 Td
+(A specific piece of clinical information inside a document.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 541.4175590551180903 Td
+(Observation:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 541.4175590551180903 Td
+(Information about what we see, hear, or measure \(like blood pressure\).) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 513.0711023622046696 Td
+(Evaluation:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 513.0711023622046696 Td
+(The doctor's opinion or diagnosis based on the facts.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 484.7246456692913057 Td
+(Instruction:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 484.7246456692913057 Td
+(An order to do something in the future, like giving medicine.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 456.378188976377885 Td
+(Action:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 456.378188976377885 Td
+(A record of what was actually done for the patient.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 428.0317322834645211 Td
+(Attribute:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 428.0317322834645211 Td
+(A specific detail or property of a class, such as a name or a date.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4477
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 2: Information Article) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Introduction to the openEHR Reference Model \(RM\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 688.819133858267719 Td
+(openEHR is a technology for storing health data. It helps hospitals and doctors share information) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 668.9766141732283131 Td
+(easily. To do this, openEHR uses two main parts. The first part is the Reference Model, or RM. The) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 649.1340944881889072 Td
+(second part is the Archetype Model, or AM. In this lesson, we will focus only on the Reference) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 629.291574803149615 Td
+(Model \(RM\).) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 589.6065354330708033 Td
+(What is the Reference Model?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 549.9214960629921052 Td
+(The Reference Model \(RM\) is the foundation of openEHR. Think of it like the grammar of a) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 530.0789763779526993 Td
+(language. It provides the rules for how we build sentences. In openEHR, the RM provides the rules) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 510.2364566929133503 Td
+(for how we build health records. It defines the 'classes' and 'attributes' that software developers) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 490.3939370078739444 Td
+(use. These rules do not change often. They are stable. This stability allows different computer) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 470.5514173228345953 Td
+(systems to understand each other.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(The Structure of the RM) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 391.1813385826770855 Td
+(The RM is organized in a hierarchy. This means there are big parts, and inside the big parts, there) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 371.3388188976377364 Td
+(are smaller parts. Let us look at the main levels.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(1. The EHR) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 311.8112598425195756 Td
+(At the very top is the EHR class. This represents the entire health record for one patient. It holds all) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 291.9687401574802834 Td
+(the documents and folders for that person.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 252.2837007874014716 Td
+(2. Composition) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 232.4411811023621794 Td
+(Inside the EHR, we have Compositions. A Composition is like a single document. It could be a 'Visit) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 212.5986614173227736 Td
+(Note', a 'Discharge Summary', or a 'Lab Report'. Every piece of data in openEHR must belong to a) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 192.7561417322833677 Td
+(Composition. A Composition always has a 'context'. The context tells us who wrote the document) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 172.9136220472439618 Td
+(and when it happened.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 133.2285826771652637 Td
+(3. Section) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 113.3860629921258578 Td
+(Inside a Composition, we can use Sections. A Section is like a heading in a book. It helps to) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 93.5435433070865656 Td
+(organize the information. For example, a document might have a section called 'Family History' or) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 73.7010236220471597 Td
+('Current Medicine'. Sections are useful, but they are not mandatory. You can put data directly into a) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3197
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(Composition without a Section.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 745.5120472440944468 Td
+(4. Entry) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 725.6695275590550409 Td
+(The most important part of the RM is the Entry. The Entry is where the real clinical content lives. It) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 705.8270078740157487 Td
+(is the statement about the patient. There are four main types of Entries in the RM:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 666.1419685039369369 Td
+(- Observation: This is for information collected through seeing, hearing, or measuring. Examples) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 646.2994488188976447 Td
+(are blood pressure, temperature, or the patient saying, 'I have a headache.' It is about facts.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 626.4569291338582389 Td
+(- Evaluation: This is for the doctor's thinking. It includes the diagnosis or an assessment. It is an) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 606.614409448818833 Td
+(opinion based on the observations.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 586.7718897637794271 Td
+(- Instruction: This is an order. It tells a nurse or another doctor to do something in the future. For) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 566.9293700787401349 Td
+(example, 'Give 5mg of aspirin.') Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 547.086850393700729 Td
+(- Action: This records what actually happened. If the nurse gives the aspirin, they record an Action.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 527.2443307086614368 Td
+(It tracks the progress of an Instruction.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 487.559291338582625 Td
+(Data Types) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 447.8742519685038701 Td
+(Finally, at the bottom of the structure, we have Data Types. These are the small details. The RM) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 428.0317322834645211 Td
+(defines how to write text, numbers, and dates. For example, 'DvText' is for plain words. 'DvQuantity') Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 408.1892125984251152 Td
+(is for numbers with units, like '50 kg'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 368.5041732283464171 Td
+(Conclusion) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 328.8191338582676053 Td
+(Understanding the RM is the first step to learning openEHR. It gives us the basic blocks: EHR,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 308.9766141732283131 Td
+(Composition, Section, and Entry. When we use these blocks correctly, we create safe and clear) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 289.1340944881889072 Td
+(health records.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3470
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 3: Reading Comprehension Quiz) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(1. What does RM stand for?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 728.5041732283464171 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 700.15771653543311 Td
+(A\) Real Model) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 683.1498425196850803 Td
+(B\) Reference Model) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 666.1419685039369369 Td
+(C\) Record Method) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(D\) Reference Method) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 615.1183464566928478 Td
+(2. Which part of openEHR defines the stable rules?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 615.1183464566928478 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 586.7718897637794271 Td
+(A\) The AM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 569.7640157480313974 Td
+(B\) The RM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 552.7561417322833677 Td
+(C\) The Hospital) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 535.748267716535338 Td
+(D\) The Software) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 501.7325196850393354 Td
+(3. What is the top class in the hierarchy?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 501.7325196850393354 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 473.3860629921259147 Td
+(A\) Entry) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 456.378188976377885 Td
+(B\) Section) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 439.3703149606298552 Td
+(C\) Composition) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 422.3624409448818255 Td
+(D\) EHR) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 388.3466929133857661 Td
+(4. What is a 'Composition' compared to?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 388.3466929133857661 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 360.0002362204724022 Td
+(A\) A single document) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 342.9923622047243725 Td
+(B\) A whole library) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 325.9844881889763428 Td
+(C\) A computer screen) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 308.9766141732283131 Td
+(D\) A single number) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 274.9608661417322537 Td
+(5. Which data type is used for plain words?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 274.9608661417322537 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 246.614409448818833 Td
+(A\) DvQuantity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 229.6065354330708033 Td
+(B\) DvText) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 212.5986614173227736 Td
+(C\) DvNumber) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 195.5907874015747439 Td
+(D\) DvDate) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3747
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(6. Based on the text, why are Sections described as 'optional'?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 785.1970866141732586 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 756.8506299212598378 Td
+(A\) Because they are expensive) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 739.8427559055118081 Td
+(B\) Because you can put data directly into a Composition) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 722.8348818897637784 Td
+(C\) Because they are not part of the RM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 705.8270078740157487 Td
+(D\) Because doctors do not like them) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 671.8112598425196893 Td
+(7. If a doctor writes 'I think the patient has asthma', which Entry type is this?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 671.8112598425196893 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 643.4648031496062686 Td
+(A\) Observation \(Fact\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 626.4569291338582389 Td
+(B\) Evaluation \(Opinion\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 609.4490551181102092 Td
+(C\) Instruction \(Order\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 592.4411811023621794 Td
+(D\) Action \(Done\)) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(8. What is the relationship between Instruction and Action?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 558.42543307086612 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 530.0789763779526993 Td
+(A\) Action happens before Instruction) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 513.0711023622046696 Td
+(B\) Instruction tracks the progress of Action) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 496.0632283464566399 Td
+(C\) Action tracks the progress of Instruction) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 479.0553543307086102 Td
+(D\) They are the same thing) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 445.0396062992125508 Td
+(9. Why does the text compare the RM to grammar?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 445.0396062992125508 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 416.69314960629913 Td
+(A\) Because it is hard to learn) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 399.6852755905511003 Td
+(B\) Because it provides rules for building the record) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 382.6774015748030706 Td
+(C\) Because it uses English words) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 365.6695275590550409 Td
+(D\) Because it is only for writing) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(10. What is the main purpose of using the RM according to the conclusion?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 331.6537795275589815 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 303.3073228346455608 Td
+(A\) To save paper) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 286.2994488188975311 Td
+(B\) To create safe and clear health records) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 269.2915748031495013 Td
+(C\) To make doctors work faster) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 252.2837007874014716 Td
+(D\) To stop using computers) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 1183
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 4: Reading Quiz Answer Key) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Question 1: Reference Model    Question 2: The RM) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 705.8270078740157487 Td
+(Question 3: EHR                Question 4: A single document) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(Question 5: DvText             Question 6: Because you can put data directly into a Composition) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(Question 7: Evaluation \(Opinion\) Question 8: Action tracks the progress of Instruction) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 637.7955118110235162 Td
+(Question 9: Because it provides rules for building the record Question 10: To create safe and clear health records) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5847
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 5: Dialogue Transcript \(Listening\)) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 728.5041732283464171 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 728.5041732283464171 Td
+(Hello, Joe. How are you today? Are you ready to start our lesson?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 702.9923622047243725 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 702.9923622047243725 Td
+(Hi Jane. I am good, thank you. Yes, I am ready. I want to learn about openEHR.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 677.480551181102328 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 677.480551181102328 Td
+(That is great. Today, we will talk about the Reference Model. We often call it the RM. Have) Tj
+T* (you heard of the RM before?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 637.7955118110235162 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 637.7955118110235162 Td
+(I have heard the name, but I do not know what it means. Is it a computer program?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 612.2837007874015853 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 612.2837007874015853 Td
+(Not exactly. It is not a program you run. It is a set of rules. It is a model for information.) Tj
+T* (Think of it like a blueprint for a house.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 572.5986614173227736 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 572.5986614173227736 Td
+(A blueprint. Okay. So it tells us how to build the health record?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 547.086850393700729 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 547.086850393700729 Td
+(Yes, exactly. It defines the structure. In openEHR, we have two levels. One is the RM, and) Tj
+T* (the other is the Archetypes. Today, we only look at the RM.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 507.4018110236219741 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 507.4018110236219741 Td
+(Okay. Only the RM. What is the most important thing in the RM?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 481.8899999999999295 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 481.8899999999999295 Td
+(The RM has many classes. A class is a group of data. The biggest class is the EHR. EHR) Tj
+T* (stands for Electronic Health Record.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 442.2049606299212314 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 442.2049606299212314 Td
+(I see. So the EHR class is the whole file for the patient?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 416.69314960629913 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 416.69314960629913 Td
+(Yes. Every patient has one EHR. Inside the EHR, we have documents. In the RM, we call) Tj
+T* (a document a 'Composition'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 377.0081102362204319 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 377.0081102362204319 Td
+(Composition. That is a new word for me. Can you give me an example of a Composition?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 351.4962992125983874 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 351.4962992125983874 Td
+(Sure. When you go to the doctor, the doctor writes notes. That note is a Composition. If) Tj
+T* (you get a blood test, the result paper is a Composition.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 311.8112598425195756 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 311.8112598425195756 Td
+(I understand. A Composition is one event or one report. What is inside the Composition?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 286.2994488188975311 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 286.2994488188975311 Td
+(Good question. A Composition contains 'Content'. We can organize this content using) Tj
+T* ('Sections'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 246.614409448818833 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 246.614409448818833 Td
+(Sections? Like chapters in a book?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 221.1025984251967884 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 221.1025984251967884 Td
+(Yes, exactly like chapters. You might have a Section for 'Allergies' and a Section for) Tj
+T* ('Medications'. But Sections are optional. You do not always need them.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 181.4175590551179766 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 181.4175590551179766 Td
+(Okay. If I do not use a Section, what do I use? What holds the actual data?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 155.9057480314959321 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 155.9057480314959321 Td
+(The actual clinical data lives in the 'Entry' classes. The Entry is the most important part of) Tj
+T* (the RM for clinical details.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 116.220708661417234 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 116.220708661417234 Td
+(Entry. Okay. Are there different types of Entries?) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5776
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 785.1970866141732586 Td
+(Yes, there are. There are four main types of Entries in the RM. They are Observation,) Tj
+T* (Evaluation, Instruction, and Action.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 745.5120472440944468 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 745.5120472440944468 Td
+(That sounds detailed. Can we talk about them one by one? What is an Observation?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 720.0002362204724022 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 720.0002362204724022 Td
+(Of course. An Observation is information that you can see, hear, or measure. It is) Tj
+T* (objective. It is a fact about the present or the past.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 680.3151968503937042 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 680.3151968503937042 Td
+(Can you give me an example of an Observation?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 654.8033858267716596 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 654.8033858267716596 Td
+(Yes. Imagine a nurse measures your temperature. The number on the thermometer is an) Tj
+T* (Observation. If you tell the doctor, 'My leg hurts,' that is also an Observation. It is a) Tj
+T* (symptom.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 600.9451181102361943 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 600.9451181102361943 Td
+(I see. So, lab results are Observations too?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 575.4333070866141497 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 575.4333070866141497 Td
+(Correct. A blood test result is an Observation. Now, the second type is Evaluation. Do you) Tj
+T* (know what evaluation means in general English?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 535.748267716535338 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 535.748267716535338 Td
+(It means to judge something, or to give an opinion.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 510.2364566929133503 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 510.2364566929133503 Td
+(Perfect. In the openEHR RM, an Evaluation is the doctor's opinion. It is a diagnosis. It is) Tj
+T* (what the doctor thinks about the Observations.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 470.5514173228345953 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 470.5514173228345953 Td
+(So, if the Observation is 'high temperature', the Evaluation is 'You have the flu'?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 445.0396062992125508 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 445.0396062992125508 Td
+(That is a perfect example, Joe! The temperature is the fact. The flu diagnosis is the) Tj
+T* (assessment. That is the Evaluation.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 405.3545669291337958 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 405.3545669291337958 Td
+(Okay, that is clear. What is the third type?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 379.8427559055117513 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 379.8427559055117513 Td
+(The third type is Instruction. An Instruction is when the doctor tells someone to do) Tj
+T* (something. It is about the future.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 340.1577165354329964 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 340.1577165354329964 Td
+(Is it like a prescription?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 314.6459055118109518 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 314.6459055118109518 Td
+(Yes. A prescription for medicine is an Instruction. A referral to another doctor is an) Tj
+T* (Instruction. It is a plan.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 274.9608661417322537 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 274.9608661417322537 Td
+(Okay. And the last one is Action?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 249.4490551181102092 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 249.4490551181102092 Td
+(Yes, Action. An Action records what was done. It is linked to the Instruction.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 223.9372440944881646 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 223.9372440944881646 Td
+(How is it linked?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 198.4254330708660063 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 198.4254330708660063 Td
+(Well, imagine the doctor creates an Instruction: 'Give patient an injection.' Later, the nurse) Tj
+T* (gives the injection. The nurse records an Action: 'Injection given at 2 PM'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 158.7403937007873083 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 158.7403937007873083 Td
+(I understand. The Instruction is the plan, and the Action is the reality.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 133.2285826771652637 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 133.2285826771652637 Td
+(Exactly. This helps us track the workflow. We know what was ordered and what was) Tj
+T* (finished.) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 5700
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 785.1970866141732586 Td
+(This structure seems very organized. Observation, Evaluation, Instruction, Action. Is there) Tj
+T* (anything smaller than an Entry?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 745.5120472440944468 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 745.5120472440944468 Td
+(Yes. Inside the Entries, we need to store the specific values. We use 'Data Types' for this.) Tj
+T* (The RM defines many Data Types.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 705.8270078740157487 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 705.8270078740157487 Td
+(What is a Data Type?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 680.3151968503937042 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 680.3151968503937042 Td
+(A Data Type tells the computer what kind of information it is holding. For example, is it a) Tj
+T* (word? Is it a number? Is it a date?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 640.6301574803148924 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 640.6301574803148924 Td
+(Can you name some Data Types in openEHR?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 615.1183464566928478 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 615.1183464566928478 Td
+(Sure. One common type is 'DvText'. 'Dv' stands for Data Value. DvText is for plain text.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 589.6065354330708033 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 589.6065354330708033 Td
+(Like a comment?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 564.0947244094487587 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 564.0947244094487587 Td
+(Yes, like 'Patient looks tired'. That is DvText. Another important one is 'DvQuantity'. This is) Tj
+T* (for numbers with units.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 524.4096850393700606 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 524.4096850393700606 Td
+(So, '80 kg' uses DvQuantity?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 498.8978740157479592 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 498.8978740157479592 Td
+(Yes. The number is 80, and the unit is kg. DvQuantity keeps them together. We also have) Tj
+T* ('DvDate' and 'DvTime'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 459.2128346456692611 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 459.2128346456692611 Td
+(That makes sense. Why are these rules so strict? Why can we not just write everything in) Tj
+T* (a Word document?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 419.5277952755905062 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 419.5277952755905062 Td
+(If we use a Word document, the computer cannot understand the data. It just sees letters.) Tj
+T* (With the RM, the computer knows that this number is a weight, and that text is a) Tj
+T* (diagnosis.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 365.6695275590550409 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 365.6695275590550409 Td
+(So it helps computers talk to each other?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 340.1577165354329964 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 340.1577165354329964 Td
+(Yes, that is called interoperability. The RM makes interoperability possible because) Tj
+T* (everyone follows the same rules.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 300.4726771653542983 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 300.4726771653542983 Td
+(I think I have a good picture now. We have the EHR. Inside is the Composition. Inside that) Tj
+T* (are Sections and Entries. And Entries have Data Types.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 260.7876377952754865 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 260.7876377952754865 Td
+(You summarized it perfectly, Joe. You are learning fast.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 235.2758267716534419 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 235.2758267716534419 Td
+(Thank you, Jane. Is there anything else about the Composition I should know?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 209.7640157480313974 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 209.7640157480313974 Td
+(Yes, one small detail. Every Composition has a 'context'. The context is very important.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 184.2522047244093528 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 184.2522047244093528 Td
+(What does the context tell us?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 158.7403937007873083 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 158.7403937007873083 Td
+(The context tells us the setting. It answers questions like: Who is the patient? Who is the) Tj
+T* (doctor? Where did this happen? When did it happen?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 119.0553543307086102 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 119.0553543307086102 Td
+(So without context, we do not know whose data it is?) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5886
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 785.1970866141732586 Td
+(Exactly. The data might be correct, but without context, it is useless. The RM ensures) Tj
+T* (every Composition has this context.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 745.5120472440944468 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 745.5120472440944468 Td
+(This is very interesting. The RM seems like a very strong foundation.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 720.0002362204724022 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 720.0002362204724022 Td
+(It is. It has been designed by many experts over many years. It covers almost every) Tj
+T* (situation in healthcare.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 680.3151968503937042 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 680.3151968503937042 Td
+(What if I need to record something very strange? Does the RM handle it?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 654.8033858267716596 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 654.8033858267716596 Td
+(Usually, yes. Because the RM classes like Observation and Evaluation are generic. You) Tj
+T* (can put any specific medical content inside them using Archetypes.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 615.1183464566928478 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 615.1183464566928478 Td
+(Ah, Archetypes. You mentioned them at the beginning. But we are not studying them) Tj
+T* (today, right?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 575.4333070866141497 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 575.4333070866141497 Td
+(That is right. Today is just for the RM. But remember, the RM is the skeleton. The) Tj
+T* (Archetypes are the muscles and skin.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 535.748267716535338 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 535.748267716535338 Td
+(That is a good analogy. Skeleton and muscles. I will remember that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 510.2364566929133503 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 510.2364566929133503 Td
+(Do you have any more questions about the four types of Entries?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 484.7246456692913057 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 484.7246456692913057 Td
+(Let me think. We talked about Observation, Evaluation, Instruction, and Action. What if I) Tj
+T* (want to record a family history? My father had heart disease.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 445.0396062992125508 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 445.0396062992125508 Td
+(That is a good question. Family history is usually an Evaluation.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 419.5277952755905062 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 419.5277952755905062 Td
+(Why is it an Evaluation? Isn't it a fact?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 394.0159842519684616 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 394.0159842519684616 Td
+(It is a fact that your father had it. But for your health record, it is a risk assessment. It) Tj
+T* (summarizes the risk to you. However, sometimes people model it as an Observation of) Tj
+T* (the family. It depends on how you design the Archetype.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 340.1577165354329964 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 340.1577165354329964 Td
+(I see. So sometimes it can be tricky?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 314.6459055118109518 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 314.6459055118109518 Td
+(Yes, sometimes. But usually, the difference is clear. Observation is raw data. Evaluation is) Tj
+T* (synthesis or opinion.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 274.9608661417322537 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 274.9608661417322537 Td
+(Okay. And what about a survey? If I answer questions on a paper.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 249.4490551181102092 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 249.4490551181102092 Td
+(Your answers to a survey are Observations. You are observing your own feelings or) Tj
+T* (status.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 209.7640157480313974 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 209.7640157480313974 Td
+(Okay. And if the doctor reads my survey and says I am depressed?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 184.2522047244093528 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 184.2522047244093528 Td
+(Then the doctor's statement is an Evaluation. You observe your feelings. The doctor) Tj
+T* (evaluates your condition.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 144.5671653543306547 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 144.5671653543306547 Td
+(That makes it very clear. Thank you, Jane.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 119.0553543307086102 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 119.0553543307086102 Td
+(You are welcome, Joe. We have covered a lot of ground today. We discussed the EHR,) Tj
+T* (Compositions, Sections, Entries, and Data Types.) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 1643
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 785.1970866141732586 Td
+(Yes, and the Context too.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 759.6852755905511003 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 759.6852755905511003 Td
+(Yes. Do you feel confident about the basics of the openEHR RM now?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 734.1734645669291695 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 734.1734645669291695 Td
+(Yes, I do. I feel ready to read more about it.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 708.6616535433070112 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 708.6616535433070112 Td
+(Excellent. Next time, we can look at how to build an Archetype. But for now, please review) Tj
+T* (these notes.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 668.9766141732283131 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 668.9766141732283131 Td
+(I will review them tonight. Thanks for the lesson, Jane.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 643.4648031496062686 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 643.4648031496062686 Td
+(My pleasure. Have a good evening, Joe.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 617.952992125984224 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 617.952992125984224 Td
+(You too. Goodbye.) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 3535
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 6: Listening Comprehension Quiz) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(1. What topic does Joe want to learn about?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 700.15771653543311 Td
+(A\) How to build a house) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 683.1498425196850803 Td
+(B\) The openEHR Reference Model) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 666.1419685039369369 Td
+(C\) How to be a doctor) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(D\) The Archetype Model) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 620.7876377952754865 Td
+(2. How does Jane describe the Reference Model \(RM\)?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 592.4411811023621794 Td
+(A\) It is a computer program you run) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 575.4333070866141497 Td
+(B\) It is a set of rules or a blueprint) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 558.42543307086612 Td
+(C\) It is a type of medicine) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 541.4175590551180903 Td
+(D\) It is a hospital building) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 513.0711023622046696 Td
+(3. What is the biggest class in the RM?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 484.7246456692913057 Td
+(A\) Composition) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 467.716771653543276 Td
+(B\) Entry) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 450.7088976377952463 Td
+(C\) EHR) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 433.7010236220471597 Td
+(D\) Section) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 405.3545669291337958 Td
+(4. What represents a single document in the RM?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 377.0081102362204319 Td
+(A\) Composition) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 360.0002362204724022 Td
+(B\) EHR) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 342.9923622047243725 Td
+(C\) Folder) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 325.9844881889763428 Td
+(D\) Observation) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 297.6380314960629221 Td
+(5. Are Sections mandatory \(required\) in a Composition?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 269.2915748031495013 Td
+(A\) Yes, always) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 252.2837007874014716 Td
+(B\) No, they are optional) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 235.2758267716534419 Td
+(C\) Only in lab reports) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 218.2679527559054122 Td
+(D\) Yes, but only one) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 189.9214960629919915 Td
+(6. Where does the real clinical data live?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 161.5750393700786844 Td
+(A\) In the EHR class) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 144.5671653543306547 Td
+(B\) In the Section class) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 127.559291338582625 Td
+(C\) In the Entry class) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 110.5514173228345953 Td
+(D\) In the Context) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 3277
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(7. Which Entry type is for things you see, hear, or measure?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 756.8506299212598378 Td
+(A\) Evaluation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 739.8427559055118081 Td
+(B\) Instruction) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 722.8348818897637784 Td
+(C\) Action) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 705.8270078740157487 Td
+(D\) Observation) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 677.480551181102328 Td
+(8. According to Jane, a diagnosis is which type of Entry?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(A\) Observation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 632.1262204724408775 Td
+(B\) Evaluation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 615.1183464566928478 Td
+(C\) Instruction) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 598.1104724409448181 Td
+(D\) Action) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(9. What is an example of an Instruction?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 541.4175590551180903 Td
+(A\) A blood pressure reading) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 524.4096850393700606 Td
+(B\) A diagnosis of flu) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 507.4018110236219741 Td
+(C\) A prescription for medicine) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 490.3939370078739444 Td
+(D\) A record of a past surgery) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 462.0474803149605805 Td
+(10. What does an Action record?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 433.7010236220471597 Td
+(A\) What was actually done) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 416.69314960629913 Td
+(B\) What the doctor thinks) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 399.6852755905511003 Td
+(C\) What might happen) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 382.6774015748030706 Td
+(D\) The patient's name) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 354.3309448818897067 Td
+(11. Which Data Type is used for numbers with units \(like 80 kg\)?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 325.9844881889763428 Td
+(A\) DvText) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 308.9766141732283131 Td
+(B\) DvDate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 291.9687401574802834 Td
+(C\) DvQuantity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 274.9608661417322537 Td
+(D\) DvTime) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(12. Why is the RM important for computers?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 218.2679527559054122 Td
+(A\) It makes them faster) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 201.2600787401573825 Td
+(B\) It helps them understand the data \(interoperability\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 184.2522047244093528 Td
+(C\) It makes them cheaper) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 167.2443307086613231 Td
+(D\) It prevents viruses) Tj
+ET
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 1705
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(13. What does the 'context' of a Composition tell us?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 756.8506299212598378 Td
+(A\) The price of the medicine) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 739.8427559055118081 Td
+(B\) Who, when, and where the document was created) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 722.8348818897637784 Td
+(C\) The list of all patients) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 705.8270078740157487 Td
+(D\) The future plan) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 677.480551181102328 Td
+(14. In Jane's analogy, if the RM is the skeleton, what are the Archetypes?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(A\) The brain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 632.1262204724408775 Td
+(B\) The clothes) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 615.1183464566928478 Td
+(C\) The muscles and skin) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 598.1104724409448181 Td
+(D\) The shoes) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(15. How does Jane classify a patient survey?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 541.4175590551180903 Td
+(A\) As an Instruction) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 524.4096850393700606 Td
+(B\) As an Observation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 507.4018110236219741 Td
+(C\) As an Action) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 490.3939370078739444 Td
+(D\) As a Composition) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 2107
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 7: Listening Quiz Answer Key) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Q1: The openEHR Reference Model | Q2: It is a set of rules or a blueprint | Q3: EHR) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 705.8270078740157487 Td
+(Q4: Composition | Q5: No, they are optional | Q6: In the Entry class) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(Q7: Observation | Q8: Evaluation  | Q9: A prescription for medicine) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(Q10: What was actually done | Q11: DvQuantity | Q12: It helps them understand the data \(interoperability\)) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 637.7955118110235162 Td
+(Q13: Who, when, and where the document was created | Q14: The muscles and skin | Q15: As an Observation) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.063 0.725 0.506 rg
+56.6929133858267775 572.5986614173227736 Td
+(Teacher's Overall Feedback:) Tj
+ET
+BT
+/F3 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 549.9214960629921052 Td
+(The openEHR Reference Model It is a set of rules or a blueprint EHR Composition No, they are) Tj
+T* (optional In the Entry class Observation Evaluation A prescription for medicine What was actually) Tj
+T* (done DvQuantity It helps them understand the data \(interoperability\) Who, when, and where the) Tj
+T* (document was created The muscles and skin As an Observation Reference Model The RM EHR A) Tj
+T* (single document DvText Because you can put data directly into a Composition Evaluation \(Opinion\)) Tj
+T* (Action tracks the progress of Instruction Because it provides rules for building the record To create) Tj
+T* (safe and clear health records) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R ]
+/Count 15
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+36 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+37 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+39 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+40 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+41 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+42 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+43 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+44 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+45 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+46 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 33 0 R
+/F2 34 0 R
+/F3 35 0 R
+/F4 36 0 R
+/F5 37 0 R
+/F6 38 0 R
+/F7 39 0 R
+/F8 40 0 R
+/F9 41 0 R
+/F10 42 0 R
+/F11 43 0 R
+/F12 44 0 R
+/F13 45 0 R
+/F14 46 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+47 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20260217234823+03'00')
+>>
+endobj
+48 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 49
+0000000000 65535 f 
+0000057411 00000 n 
+0000059329 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003180 00000 n 
+0000003317 00000 n 
+0000007846 00000 n 
+0000007983 00000 n 
+0000011232 00000 n 
+0000011370 00000 n 
+0000014893 00000 n 
+0000015032 00000 n 
+0000018832 00000 n 
+0000018971 00000 n 
+0000020207 00000 n 
+0000020346 00000 n 
+0000026246 00000 n 
+0000026385 00000 n 
+0000032214 00000 n 
+0000032353 00000 n 
+0000038106 00000 n 
+0000038245 00000 n 
+0000044184 00000 n 
+0000044323 00000 n 
+0000046019 00000 n 
+0000046158 00000 n 
+0000049746 00000 n 
+0000049885 00000 n 
+0000053215 00000 n 
+0000053354 00000 n 
+0000055112 00000 n 
+0000055251 00000 n 
+0000057564 00000 n 
+0000057690 00000 n 
+0000057821 00000 n 
+0000057955 00000 n 
+0000058093 00000 n 
+0000058217 00000 n 
+0000058346 00000 n 
+0000058478 00000 n 
+0000058614 00000 n 
+0000058742 00000 n 
+0000058869 00000 n 
+0000058998 00000 n 
+0000059131 00000 n 
+0000059233 00000 n 
+0000059582 00000 n 
+0000059668 00000 n 
+trailer
+<<
+/Size 49
+/Root 48 0 R
+/Info 47 0 R
+/ID [ <97CCFD93CACADDEDFD08061A14D06858> <97CCFD93CACADDEDFD08061A14D06858> ]
+>>
+startxref
+59772
+%%EOF
