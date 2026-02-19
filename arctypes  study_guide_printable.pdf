@@ -1,0 +1,2902 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2960
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 785.1970866141732586 Td
+(Learning Module: Archetypes in openEHR: A) Tj
+T* (First Introductory Lesson) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 711.4962992125983874 Td
+(Section 1: Essential Vocabulary) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(Archetype:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 683.1498425196850803 Td
+(A model, pattern, or template used to organize specific information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 654.8033858267716596 Td
+(Electronic Health Record \(EHR\):) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 654.8033858267716596 Td
+(A digital file that holds a person's medical history and information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 626.4569291338582389 Td
+(Clinical:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 626.4569291338582389 Td
+(Related to the treatment of patients in a hospital or clinic.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 598.1104724409448181 Td
+(Data:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 598.1104724409448181 Td
+(Facts, numbers, or information used by computers.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(Standard:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 569.7640157480313974 Td
+(An agreed way of doing something so everyone understands it.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 541.4175590551180903 Td
+(Constraint:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 541.4175590551180903 Td
+(A rule or a limit that controls what you can write.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 513.0711023622046696 Td
+(Template:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 513.0711023622046696 Td
+(A large plan that groups small parts together for a specific use.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 484.7246456692913057 Td
+(Observation:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 484.7246456692913057 Td
+(The act of looking at something or measuring something to get information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 456.378188976377885 Td
+(Evaluation:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 456.378188976377885 Td
+(Making a judgment or decision based on information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 428.0317322834645211 Td
+(Instruction:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+170.0787401574803255 428.0317322834645211 Td
+(An order or direction telling someone to do something.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4818
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 2: Information Article) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(In the modern world, hospitals use computers to save patient information. This is called an) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 708.6616535433070112 Td
+(Electronic Health Record, or EHR. However, there is a big problem. Sometimes, one computer) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 688.819133858267719 Td
+(system cannot understand the data from another system. This is like two people speaking different) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 668.9766141732283131 Td
+(languages. To fix this, we need a standard. One very important standard is called openEHR. The) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 649.1340944881889072 Td
+(most important part of openEHR is the 'archetype'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 609.4490551181102092 Td
+(What is an Archetype?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(Imagine you have a box of Lego blocks. Each block has a specific shape and size. You can use) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 549.9214960629921052 Td
+(these blocks to build a house, a car, or a boat. In openEHR, an archetype is like a single Lego) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 530.0789763779526993 Td
+(block. It is a model for one specific piece of clinical information. For example, there is an archetype) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 510.2364566929133503 Td
+(for 'Blood Pressure'. There is another archetype for 'Body Temperature'. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 470.5514173228345953 Td
+(An archetype tells the computer exactly what the information looks like. For 'Blood Pressure', the) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 450.7088976377952463 Td
+(archetype says, 'We need two numbers: Systolic and Diastolic'. It also says, 'The unit is millimeters) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(of mercury \(mmHg\)'. Because of this archetype, every computer knows exactly what 'Blood) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 411.0238582677164914 Td
+(Pressure' means. They all agree on the pattern.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 371.3388188976377364 Td
+(The Structure of Archetypes) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(Archetypes are very organized. They are not just random notes. They have a specific structure. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 311.8112598425195756 Td
+(1. **Concept**: This is the name of the archetype, like 'Heart Rate'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 291.9687401574802834 Td
+(2. **Description**: This explains what the archetype is for.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 272.1262204724408775 Td
+(3. **Definition**: This is the main part. It lists all the data points. For example, in a 'Weight') Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 252.2837007874014716 Td
+(archetype, the data point is the number of kilograms.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 232.4411811023621794 Td
+(4. **Rules \(Constraints\)**: These are limits. A rule might say, 'Weight cannot be a negative number'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 212.5986614173227736 Td
+(This helps keep the data correct.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 172.9136220472439618 Td
+(Classes of Archetypes) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 133.2285826771652637 Td
+(There are different types of archetypes for different jobs. These are called classes.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 113.3860629921258578 Td
+(- **Observation**: This is for information we measure or see. Examples are Blood Pressure,) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 93.5435433070865656 Td
+(Weight, or color of the skin.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 73.7010236220471597 Td
+(- **Evaluation**: This is for when a doctor thinks about the data and makes a decision. A) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2329
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+('Diagnosis' \(saying what sickness a person has\) is an evaluation.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 765.3545669291338527 Td
+(- **Instruction**: This is when a doctor tells a nurse or patient to do something. For example, 'Take) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 745.5120472440944468 Td
+(this medicine'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 725.6695275590550409 Td
+(- **Action**: This records that something was done. For example, 'The patient took the medicine'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 685.9844881889763428 Td
+(Templates) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 646.2994488188976447 Td
+(An archetype is just one piece of the puzzle. When a doctor sees a patient, they need many pieces.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 626.4569291338582389 Td
+(They need to check weight, temperature, and ask questions. To do this, we put many archetypes) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 606.614409448818833 Td
+(together. This group is called a 'Template'. A template is like a full form that the doctor fills out. It) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 586.7718897637794271 Td
+(uses the archetypes as building blocks.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 547.086850393700729 Td
+(Why use Archetypes?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 507.4018110236219741 Td
+(Using archetypes is very helpful. First, it helps computers share data. Second, archetypes can be) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 487.559291338582625 Td
+(translated. The computer code stays the same, but the words can change from English to Spanish) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 467.716771653543276 Td
+(or French. This means doctors all over the world can use the same models. openEHR archetypes) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 447.8742519685038701 Td
+(make medical data safe, clear, and easy to understand.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3524
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 3: Reading Comprehension Quiz) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(1. What does EHR stand for?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 728.5041732283464171 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 700.15771653543311 Td
+(A\) Electric Home Robot) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 683.1498425196850803 Td
+(B\) Electronic Health Record) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 666.1419685039369369 Td
+(C\) Easy Health Rules) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(D\) English Hospital Room) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 615.1183464566928478 Td
+(2. What is an archetype compared to in the text?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 615.1183464566928478 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 586.7718897637794271 Td
+(A\) A puzzle piece.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 569.7640157480313974 Td
+(B\) A Lego block.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 552.7561417322833677 Td
+(C\) A brick wall.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 535.748267716535338 Td
+(D\) A fast car.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 501.7325196850393354 Td
+(3. Which of the following is an Observation?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 501.7325196850393354 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 473.3860629921259147 Td
+(A\) Taking medicine.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 456.378188976377885 Td
+(B\) A diagnosis.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 439.3703149606298552 Td
+(C\) Body Temperature.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 422.3624409448818255 Td
+(D\) A prescription.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 388.3466929133857661 Td
+(4. What are the rules in an archetype called?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 388.3466929133857661 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 360.0002362204724022 Td
+(A\) Constraints) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 342.9923622047243725 Td
+(B\) Laws) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 325.9844881889763428 Td
+(C\) Orders) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 308.9766141732283131 Td
+(D\) Blocks) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 274.9608661417322537 Td
+(5. What do we call a group of archetypes?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 274.9608661417322537 Td
+(Difficulty: EASY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 246.614409448818833 Td
+(A\) A Standard) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 229.6065354330708033 Td
+(B\) A Template) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 212.5986614173227736 Td
+(C\) A Class) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 195.5907874015747439 Td
+(D\) A Constraint) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3850
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(6. Why is it a problem if computers do not have a standard?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 785.1970866141732586 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 756.8506299212598378 Td
+(A\) The computers will turn off.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 739.8427559055118081 Td
+(B\) The computers cannot understand each other's data.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 722.8348818897637784 Td
+(C\) The doctors will not get paid.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 705.8270078740157487 Td
+(D\) The internet will break.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 671.8112598425196893 Td
+(7. Based on the text, what is the difference between Observation and Evaluation?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 671.8112598425196893 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 643.4648031496062686 Td
+(A\) Observation is seeing facts; Evaluation is making a decision.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 626.4569291338582389 Td
+(B\) Observation is for nurses; Evaluation is for patients.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 609.4490551181102092 Td
+(C\) Observation is digital; Evaluation is paper.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 592.4411811023621794 Td
+(D\) There is no difference.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(8. What is the function of the 'Definition' part of an archetype?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 558.42543307086612 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 530.0789763779526993 Td
+(A\) It names the archetype.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 513.0711023622046696 Td
+(B\) It lists all the data points needed.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 496.0632283464566399 Td
+(C\) It translates the language.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 479.0553543307086102 Td
+(D\) It saves the file.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 445.0396062992125508 Td
+(9. Why are templates useful for a doctor's visit?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 445.0396062992125508 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 416.69314960629913 Td
+(A\) They make the computer faster.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 399.6852755905511003 Td
+(B\) They combine all the necessary archetypes into one form.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 382.6774015748030706 Td
+(C\) They delete old information.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 365.6695275590550409 Td
+(D\) They prevent the doctor from typing.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(10. What benefit does openEHR offer for international hospitals?) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+453.5477165354329827 331.6537795275589815 Td
+(Difficulty: INTERMEDIATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 303.3073228346455608 Td
+(A\) Free computers.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 286.2994488188975311 Td
+(B\) Archetypes can be translated so data is understood globally.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 269.2915748031495013 Td
+(C\) Doctors can travel for free.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 252.2837007874014716 Td
+(D\) It forces everyone to speak English.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 1250
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 4: Reading Quiz Answer Key) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Question 1: Electronic Health Record Question 2: A Lego block.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 705.8270078740157487 Td
+(Question 3: Body Temperature.  Question 4: Constraints) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(Question 5: A Template         Question 6: The computers cannot understand each other's data.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(Question 7: Observation is seeing facts; Evaluation is making a decision. Question 8: It lists all the data points needed.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 637.7955118110235162 Td
+(Question 9: They combine all the necessary archetypes into one form. Question 10: Archetypes can be translated so data is understood globally.) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 6062
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 5: Dialogue Transcript \(Listening\)) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 728.5041732283464171 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 728.5041732283464171 Td
+(Hi Jane. Do you have a moment? I am really confused about something.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 702.9923622047243725 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 702.9923622047243725 Td
+(Hi Joe. Sure, I have time. What is confusing you today?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 677.480551181102328 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 677.480551181102328 Td
+(Well, I started my new job in the hospital IT department. My boss told me I need to learn) Tj
+T* (about 'openEHR' and something called 'archetypes'. I have no idea what that means.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 637.7955118110235162 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 637.7955118110235162 Td
+(Ah, I see! Don't worry, Joe. It sounds difficult, but it is actually quite logical. I can help you) Tj
+T* (explain it.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 598.1104724409448181 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 598.1104724409448181 Td
+(That would be great. Can we start with the basics? What is openEHR?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 572.5986614173227736 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 572.5986614173227736 Td
+(Okay. openEHR is a way to organize medical data. You know that doctors write notes) Tj
+T* (about patients, right?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 532.9136220472440755 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 532.9136220472440755 Td
+(Yes, they write things like blood pressure, allergies, and medicines.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 507.4018110236219741 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 507.4018110236219741 Td
+(Exactly. In the past, every hospital used a different way to write these notes. One hospital) Tj
+T* (might write 'BP' for blood pressure. Another might write 'Blood Press'. A computer cannot) Tj
+T* (understand that 'BP' and 'Blood Press' are the same thing.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 453.5435433070865656 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 453.5435433070865656 Td
+(Oh, I understand. So the computers get confused.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 428.0317322834645211 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 428.0317322834645211 Td
+(Yes. So, openEHR provides a standard. It gives us a set of rules so all computers) Tj
+T* (understand the data. The most important tool for this is the 'archetype'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 388.3466929133857661 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 388.3466929133857661 Td
+(Okay, so what is an archetype exactly? Is it a computer program?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 362.8348818897637216 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 362.8348818897637216 Td
+(Not exactly. Think of it as a model or a pattern. Do you like Lego blocks?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 337.323070866141677 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 337.323070866141677 Td
+(Yes, I love building with Legos.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 311.8112598425195756 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 311.8112598425195756 Td
+(Great. Imagine that clinical data is like a building. An archetype is like a specific type of) Tj
+T* (Lego block. One archetype defines one specific concept. For example, there is an) Tj
+T* (archetype for 'Blood Pressure'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 257.952992125984224 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 257.952992125984224 Td
+(Okay. So the Blood Pressure archetype is a block. What is inside this block?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 232.4411811023621794 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 232.4411811023621794 Td
+(Inside the archetype, there is a definition. It tells us what data we need. For blood) Tj
+T* (pressure, we need two numbers. Do you know what they are?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 192.7561417322833677 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 192.7561417322833677 Td
+(I think so. Systolic and diastolic?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 167.2443307086613231 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 167.2443307086613231 Td
+(Correct! The archetype says: 'You must have a place for Systolic and a place for) Tj
+T* (Diastolic'. It also says what units to use, like millimeters of mercury.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 127.559291338582625 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 127.559291338582625 Td
+(Why is that important? Can't the doctor just type the numbers?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 102.0474803149605805 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 102.0474803149605805 Td
+(If the doctor just types numbers, the computer doesn't know what they mean. The) Tj
+T* (archetype gives the numbers a label and a meaning. It makes the data structured.) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5864
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 785.1970866141732586 Td
+(I see. Does the archetype do anything else besides labeling?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 759.6852755905511003 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 759.6852755905511003 Td
+(Yes, it has rules. In openEHR, we call these 'constraints'. A constraint is a limit.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 734.1734645669291695 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 734.1734645669291695 Td
+(What kind of limit?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 708.6616535433070112 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 708.6616535433070112 Td
+(Well, think about body temperature. Can a human have a body temperature of 1000) Tj
+T* (degrees?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 668.9766141732283131 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 668.9766141732283131 Td
+(No, that is impossible! We would burn up.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 643.4648031496062686 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 643.4648031496062686 Td
+(Exactly. So, the archetype has a constraint. It might say, 'Temperature must be between) Tj
+T* (20 degrees and 45 degrees'. If a doctor types 1000, the computer will say 'Error! This is) Tj
+T* (wrong'.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 589.6065354330708033 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 589.6065354330708033 Td
+(That is very smart. It stops mistakes.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 564.0947244094487587 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 564.0947244094487587 Td
+(Yes. Now, you need to know that there are different classes of archetypes. Not all medical) Tj
+T* (data is the same.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 524.4096850393700606 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 524.4096850393700606 Td
+(What do you mean by classes?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 498.8978740157479592 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 498.8978740157479592 Td
+(We group them by what they do. The first class is called 'Observation'. This is the most) Tj
+T* (common one.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 459.2128346456692611 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 459.2128346456692611 Td
+(Observation... that means looking at something, right?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 433.7010236220471597 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 433.7010236220471597 Td
+(Yes. It is information that you can measure or see. Blood pressure, weight, height, and) Tj
+T* (heart rate are all Observations. You observe the patient to get the number.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 394.0159842519684616 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 394.0159842519684616 Td
+(Okay, that makes sense. What is the next class?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 368.5041732283464171 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 368.5041732283464171 Td
+(The next one is 'Evaluation'. This is different. An evaluation is not just a number. It is an) Tj
+T* (opinion or a decision made by the doctor.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 328.8191338582676053 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 328.8191338582676053 Td
+(Can you give me an example?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 303.3073228346455608 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 303.3073228346455608 Td
+(Sure. A diagnosis is an evaluation. If the doctor looks at your symptoms and says, 'You) Tj
+T* (have the flu', that is an Evaluation. It comes from the doctor's brain, not just a machine.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 263.6222834645668627 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 263.6222834645668627 Td
+(I understand. Observation is a fact, Evaluation is a decision.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 238.1104724409448181 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 238.1104724409448181 Td
+(Perfect, Joe! You are learning fast. The third class is 'Instruction'. This is when the doctor) Tj
+T* (tells someone to do something.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 198.4254330708660063 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 198.4254330708660063 Td
+(Like giving a prescription?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 172.9136220472439618 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 172.9136220472439618 Td
+(Yes! 'Take two pills every morning' is an Instruction. It is an order.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 147.4018110236219172 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 147.4018110236219172 Td
+(And is there a class for when I actually take the pills?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 121.8899999999998727 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 121.8899999999998727 Td
+(Yes, that is the fourth class. It is called 'Action'. An Action records what actually happened.) Tj
+T* ('Joe took the pill at 8 AM'.) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 5246
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 785.1970866141732586 Td
+(So we have Observation, Evaluation, Instruction, and Action. It covers everything.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 759.6852755905511003 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 759.6852755905511003 Td
+(It covers almost everything in clinical care. But Joe, one archetype is usually not enough) Tj
+T* (for a doctor's visit.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 720.0002362204724022 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 720.0002362204724022 Td
+(Why not?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 694.4884251968503577 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 694.4884251968503577 Td
+(Because when you go to the doctor, they check many things. They check your heart, your) Tj
+T* (weight, and they ask how you feel. That is three or four archetypes.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 654.8033858267716596 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 654.8033858267716596 Td
+(So how do we put them together?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 629.291574803149615 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 629.291574803149615 Td
+(We use something called a 'Template'. A Template is a group of archetypes.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 603.7797637795274568 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 603.7797637795274568 Td
+(Is it like a form?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 578.2679527559055259 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 578.2679527559055259 Td
+(Yes, exactly. Imagine a form for a 'Yearly Checkup'. This template will include the Blood) Tj
+T* (Pressure archetype, the Weight archetype, and the Height archetype. It groups them) Tj
+T* (together for a specific purpose.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 524.4096850393700606 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 524.4096850393700606 Td
+(Can we change the archetypes when we put them in a template?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 498.8978740157479592 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 498.8978740157479592 Td
+(We cannot change the definition, but we can make it more specific. For example, an) Tj
+T* (archetype might have a list of 100 possible symptoms. But for a 'Flu Check' template, we) Tj
+T* (might only show the 5 symptoms related to the flu.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 445.0396062992125508 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 445.0396062992125508 Td
+(That is very useful. It makes the screen cleaner for the doctor.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 419.5277952755905062 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 419.5277952755905062 Td
+(Yes. And there is one more amazing thing about archetypes. They work in many) Tj
+T* (languages.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 379.8427559055117513 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 379.8427559055117513 Td
+(Really? How?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 354.3309448818897067 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 354.3309448818897067 Td
+(The computer code—the structure—is the same everywhere. But the labels can be) Tj
+T* (translated. So, a doctor in Spain sees 'Presión arterial', and a doctor in the UK sees 'Blood) Tj
+T* (Pressure'. But the computer knows it is the exact same archetype.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 300.4726771653542983 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 300.4726771653542983 Td
+(Wow. That means we can share research and data across countries.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 274.9608661417322537 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 274.9608661417322537 Td
+(Exactly. That is the goal of openEHR. To make health data work together globally.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 249.4490551181102092 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 249.4490551181102092 Td
+(Thank you so much, Jane. This makes a lot of sense now. It is like building with Lego) Tj
+T* (blocks to make sure everyone understands the structure.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 209.7640157480313974 Td
+(Jane:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 209.7640157480313974 Td
+(You've got it, Joe. Good luck with your new job!) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 184.2522047244093528 Td
+(Joe:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+127.5590551181102512 184.2522047244093528 Td
+(Thanks! I feel much more confident now.) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 3760
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 6: Listening Comprehension Quiz) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(1. Why is Joe asking Jane for help?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 700.15771653543311 Td
+(A\) He is sick and needs a doctor.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 683.1498425196850803 Td
+(B\) He is new to the IT department and needs to learn about openEHR.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 666.1419685039369369 Td
+(C\) He wants to buy Lego blocks.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(D\) He lost his computer.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 620.7876377952754865 Td
+(2. What analogy \(comparison\) does Jane use to explain archetypes?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 592.4411811023621794 Td
+(A\) Cars on a road.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 575.4333070866141497 Td
+(B\) Ingredients in a cake.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 558.42543307086612 Td
+(C\) Lego blocks.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 541.4175590551180903 Td
+(D\) Pages in a book.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 513.0711023622046696 Td
+(3. Which medical example does Jane use first to explain an archetype?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 484.7246456692913057 Td
+(A\) Broken leg.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 467.716771653543276 Td
+(B\) Headache.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 450.7088976377952463 Td
+(C\) Blood Pressure.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 433.7010236220471597 Td
+(D\) Eye color.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 405.3545669291337958 Td
+(4. According to the dialogue, what two numbers are needed for blood pressure?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 377.0081102362204319 Td
+(A\) Height and Weight.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 360.0002362204724022 Td
+(B\) Systolic and Diastolic.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 342.9923622047243725 Td
+(C\) Fast and Slow.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 325.9844881889763428 Td
+(D\) Hot and Cold.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 297.6380314960629221 Td
+(5. Why does Jane say we cannot just type random numbers?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 269.2915748031495013 Td
+(A\) Because the keyboard is broken.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 252.2837007874014716 Td
+(B\) Because the computer needs labels to know what the numbers mean.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 235.2758267716534419 Td
+(C\) Because doctors don't like numbers.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 218.2679527559054122 Td
+(D\) Because numbers are boring.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 189.9214960629919915 Td
+(6. What is a 'constraint' in openEHR?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 161.5750393700786844 Td
+(A\) A type of medicine.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 144.5671653543306547 Td
+(B\) A rule or limit on the data.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 127.559291338582625 Td
+(C\) A computer virus.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 110.5514173228345953 Td
+(D\) A new hospital.) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 3440
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(7. What example of a constraint does Jane give?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 756.8506299212598378 Td
+(A\) You cannot eat before surgery.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 739.8427559055118081 Td
+(B\) You must pay the bill.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 722.8348818897637784 Td
+(C\) Body temperature cannot be 1000 degrees.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 705.8270078740157487 Td
+(D\) Blood pressure must be high.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 677.480551181102328 Td
+(8. What is the 'Observation' class used for?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(A\) Things you can measure or see.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 632.1262204724408775 Td
+(B\) Giving orders.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 615.1183464566928478 Td
+(C\) Making a guess.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 598.1104724409448181 Td
+(D\) Doing an action.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(9. Which of these is an example of an 'Evaluation'?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 541.4175590551180903 Td
+(A\) Measuring height.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 524.4096850393700606 Td
+(B\) Checking weight.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 507.4018110236219741 Td
+(C\) A doctor making a diagnosis.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 490.3939370078739444 Td
+(D\) Taking a pill.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 462.0474803149605805 Td
+(10. What is the 'Instruction' class used for?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 433.7010236220471597 Td
+(A\) Writing a history.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 416.69314960629913 Td
+(B\) Telling someone to do something \(an order\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 399.6852755905511003 Td
+(C\) Looking at a patient.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 382.6774015748030706 Td
+(D\) Saving a file.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 354.3309448818897067 Td
+(11. What does the 'Action' class record?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 325.9844881889763428 Td
+(A\) What the doctor hopes will happen.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 308.9766141732283131 Td
+(B\) What actually happened \(like taking a pill\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 291.9687401574802834 Td
+(C\) The cost of the visit.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 274.9608661417322537 Td
+(D\) The patient's name.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(12. What is a 'Template'?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 218.2679527559054122 Td
+(A\) A single archetype.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 201.2600787401573825 Td
+(B\) A group of archetypes put together for a specific use.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 184.2522047244093528 Td
+(C\) A computer screen.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 167.2443307086613231 Td
+(D\) A type of medicine.) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 1841
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(13. Can you change the definition of an archetype inside a template?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 756.8506299212598378 Td
+(A\) Yes, you can change everything.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 739.8427559055118081 Td
+(B\) No, but you can make it more specific \(hide things you don't need\).) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 722.8348818897637784 Td
+(C\) Yes, you can delete the rules.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 705.8270078740157487 Td
+(D\) No, templates cannot be changed.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 677.480551181102328 Td
+(14. What does Jane say about languages?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 649.1340944881889072 Td
+(A\) Archetypes only work in English.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 632.1262204724408775 Td
+(B\) Archetypes only work in Spanish.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 615.1183464566928478 Td
+(C\) The structure is the same, but labels can be translated.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 598.1104724409448181 Td
+(D\) You need a new computer for every language.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 569.7640157480313974 Td
+(15. How does Joe feel at the end of the conversation?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 541.4175590551180903 Td
+(A\) More confused.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 524.4096850393700606 Td
+(B\) Angry.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 507.4018110236219741 Td
+(C\) Hungry.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 490.3939370078739444 Td
+(D\) More confident.) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 3098
+>>
+stream
+1.4173228346456694 w
+0.31 0.27 0.9 RG
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(Section 7: Listening Quiz Answer Key) Tj
+ET
+0.31 0.27 0.9 RG
+1.4173228346456694 w
+56.6929133858267775 756.8506299212598378 m
+538.5870866141731312 756.8506299212598378 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(Q1: He is new to the IT department and needs to learn about openEHR. | Q2: Lego blocks. | Q3: Blood Pressure.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 705.8270078740157487 Td
+(Q4: Systolic and Diastolic. | Q5: Because the computer needs labels to know what the numbers mean. | Q6: A rule or limit on the data.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 683.1498425196850803 Td
+(Q7: Body temperature cannot be 1000 degrees. | Q8: Things you can measure or see. | Q9: A doctor making a diagnosis.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(Q10: Telling someone to do something \(an order\). | Q11: What actually happened \(like taking a pill\). | Q12: A group of archetypes put together for a specific use.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 637.7955118110235162 Td
+(Q13: No, but you can make it more specific \(hide things you don't need\). | Q14: The structure is the same, but labels can be translated. | Q15: More confident.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.063 0.725 0.506 rg
+56.6929133858267775 572.5986614173227736 Td
+(Teacher's Overall Feedback:) Tj
+ET
+BT
+/F3 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 549.9214960629921052 Td
+(Dialogue Q1: He is new to the IT department and needs to learn about openEHR. Dialogue Q2:) Tj
+T* (Lego blocks. Dialogue Q3: Blood Pressure. Dialogue Q4: Systolic and Diastolic. Dialogue Q5:) Tj
+T* (Because the computer needs labels to know what the numbers mean. Dialogue Q6: A rule or limit) Tj
+T* (on the data. Dialogue Q7: Body temperature cannot be 1000 degrees. Dialogue Q8: Things you) Tj
+T* (can measure or see. Dialogue Q9: A doctor making a diagnosis. Dialogue Q10: Telling someone to) Tj
+T* (do something \(an order\). Dialogue Q11: What actually happened \(like taking a pill\). Dialogue Q12:) Tj
+T* (A group of archetypes put together for a specific use. Dialogue Q13: No, but you can make it more) Tj
+T* (specific \(hide things you don't need\). Dialogue Q14: The structure is the same, but labels can be) Tj
+T* (translated. Dialogue Q15: More confident. Textbook Q1: Electronic Health Record Textbook Q2: A) Tj
+T* (Lego block. Textbook Q3: Body Temperature. Textbook Q4: Constraints Textbook Q5: A Template) Tj
+T* (Textbook Q6: The computers cannot understand each other's data. Textbook Q7: Observation is) Tj
+T* (seeing facts; Evaluation is making a decision. Textbook Q8: It lists all the data points needed.) Tj
+T* (Textbook Q9: They combine all the necessary archetypes into one form. Textbook Q10: Archetypes) Tj
+T* (can be translated so data is understood globally.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R ]
+/Count 13
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+36 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+37 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+39 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+40 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+41 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+42 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 29 0 R
+/F2 30 0 R
+/F3 31 0 R
+/F4 32 0 R
+/F5 33 0 R
+/F6 34 0 R
+/F7 35 0 R
+/F8 36 0 R
+/F9 37 0 R
+/F10 38 0 R
+/F11 39 0 R
+/F12 40 0 R
+/F13 41 0 R
+/F14 42 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+43 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20260217235538+03'00')
+>>
+endobj
+44 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000050543 00000 n 
+0000052447 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003164 00000 n 
+0000003301 00000 n 
+0000008171 00000 n 
+0000008308 00000 n 
+0000010689 00000 n 
+0000010827 00000 n 
+0000014404 00000 n 
+0000014543 00000 n 
+0000018446 00000 n 
+0000018585 00000 n 
+0000019888 00000 n 
+0000020027 00000 n 
+0000026142 00000 n 
+0000026281 00000 n 
+0000032198 00000 n 
+0000032337 00000 n 
+0000037636 00000 n 
+0000037775 00000 n 
+0000041588 00000 n 
+0000041727 00000 n 
+0000045220 00000 n 
+0000045359 00000 n 
+0000047253 00000 n 
+0000047392 00000 n 
+0000050682 00000 n 
+0000050808 00000 n 
+0000050939 00000 n 
+0000051073 00000 n 
+0000051211 00000 n 
+0000051335 00000 n 
+0000051464 00000 n 
+0000051596 00000 n 
+0000051732 00000 n 
+0000051860 00000 n 
+0000051987 00000 n 
+0000052116 00000 n 
+0000052249 00000 n 
+0000052351 00000 n 
+0000052700 00000 n 
+0000052786 00000 n 
+trailer
+<<
+/Size 45
+/Root 44 0 R
+/Info 43 0 R
+/ID [ <016A0E8D62C7F942CB75175A7368BAEA> <016A0E8D62C7F942CB75175A7368BAEA> ]
+>>
+startxref
+52890
+%%EOF
